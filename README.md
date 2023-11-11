@@ -23,6 +23,7 @@ Linear Regression and Random forests algorithms did well but not excellent, wher
   - Item_Visibility
   - Item_MRP
 Sample of plots:
+
 ![prediction project matrix](https://github.com/MoAlsayed/Prediction-of-Product-Sales/assets/144434790/757a5bc9-0347-433e-93b6-5321c69896f2)
 ![corr prediction project](https://github.com/MoAlsayed/Prediction-of-Product-Sales/assets/144434790/17e36f3b-a261-403e-8454-72321c5084e3)
 ![categorial vs target](https://github.com/MoAlsayed/Prediction-of-Product-Sales/assets/144434790/dd461e73-184f-4f7c-b0ab-f9bec40b05eb)
